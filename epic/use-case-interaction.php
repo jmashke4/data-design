@@ -8,7 +8,9 @@
 		<h1>Use Case:</h1>
 		<h2>Title: </h2>
 		<p>Adding The Witcher to her watchlist</p>
-		<h3></h3>
+		<h3>Description:</h3>
+		<p>Bailey wants to add The Witcher to her watchlist</p>
+		
 		<ul>
 			<li>Bailey enters netflix.com into her browser</li>
 			<li>The server returns the netflix main page</li>
