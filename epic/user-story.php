@@ -6,6 +6,6 @@
 	</head>
 	<body>
 	<h1>User Story:</h1>
-	<p>As a user, Bailey would like to stream her favorite TV show</p>
+	<p>As a user, Bailey would like to stream her favorite TV shows</p>
 	</body>
 </html>
