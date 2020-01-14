@@ -6,10 +6,10 @@
 	</head>
 	<body>
 	<link rel="stylesheet" href="styles2.css">
-	<h1>Data Design Project</h1>
-	<p><a href="persona.php">Persona</a></p>
-	<p><a href="user-story.php">User Story</a></p>
-	<p><a href="use-case-interaction.php">Use Case Interaction</a></p>
+	<h1 class = "project-title">Data Design Project</h1>
+	<p><a href="persona.php" class="Persona">Persona</a></p>
+	<p><a href="user-story.php" class="user-story">User Story</a></p>
+	<p><a href="use-case-interaction.php" class="interaction">Use Case Interaction</a></p>
 	</body>
 
 </html>
