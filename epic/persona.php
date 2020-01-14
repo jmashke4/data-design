@@ -6,9 +6,9 @@
 	</head>
 	<body>
 		<h1>Name:</h1>
-		<p>
+		<h2>
 			<strong>Bailey Binger</strong>
-		</p>
+		</h2>
 		<img src="BingeWatcher.jpg" alt="Binge">
 		<p>
 			<strong>Gender:</strong> Female
