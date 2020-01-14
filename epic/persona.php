@@ -14,12 +14,14 @@
 		<p>Attitude: likes to be caught up in today's Pop Culture, likes giving movie and tv show recommendations Considers herself to be the most culturally educated amongst her friends</p>
 		<p>Needs/Goals/Features:</p>
 			<ul>
-				<li>Ability to watch her favorite shows</li>
+				<li>Ability to watch her favorite movies and tv shows</li>
 				<li>Receive tailored recommendations based off her viewing history</li>
 				<li>Leave reviews</li>
 			</ul>
 		<p>Frustrations</p>
 			<ul>
-				<li></li>
+				<li>Hates commercials</li>
+				<li>Doesn't want to pay the ridiculous amount for cable</li>
+				<li>Wants all of her programs in one convient location</li>
 			</ul>
 </html>
