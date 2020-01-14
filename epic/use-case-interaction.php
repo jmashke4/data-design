@@ -11,7 +11,11 @@
 			<li>Bailey enters netflix.com into her browser</li>
 			<li>The server returns the netflix main page</li>
 			<li>Bailey enters her username and password</li>
-			<li></li>
+			<li>Netflix displays her profile</li>
+			<li>Bailey searches for "The Witcher"</li>
+			<li>Netflix displays the results</li>
+			<li>Bailey clicks "add to watch list"</li>
+			<li>Netflix adds "The Witcher"</li>
 		</ul>
 	</body>
 </html>
