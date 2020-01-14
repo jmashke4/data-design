@@ -5,6 +5,7 @@
 		<title>Use Case Interaction</title>
 	</head>
 	<body>
+	<link rel="stylesheet" href="styles.css">
 		<h1>Use Case:</h1>
 		<h2>Title: </h2>
 		<p>Adding The Witcher to her watchlist</p>
