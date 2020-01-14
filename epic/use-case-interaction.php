@@ -5,8 +5,10 @@
 		<title>Use Case Interaction</title>
 	</head>
 	<body>
-		<h1>Use Case Interaction:</h1>
-		<p></p>
+		<h1>Use Case:</h1>
+		<h2>Title: </h2>
+		<p>Adding The Witcher to her watchlist</p>
+		<h3></h3>
 		<ul>
 			<li>Bailey enters netflix.com into her browser</li>
 			<li>The server returns the netflix main page</li>
