@@ -9,8 +9,10 @@
 		<h2>Title: </h2>
 		<p>Adding The Witcher to her watchlist</p>
 		<h3>Description:</h3>
-		<p>Bailey wants to add The Witcher to her watchlist</p>
-		
+		<p>Bailey is about to finish Game of Thrones and is looking for a new show to fill the massively disappointing void the final season left,
+			when one of her friends recommends The Witcher. Since Bailey is not done with Game of Thrones yet, she wants to add The Witcher to her
+			watchlist so she can come back to it later.</p>
+
 		<ul>
 			<li>Bailey enters netflix.com into her browser</li>
 			<li>The server returns the netflix main page</li>
