@@ -9,7 +9,7 @@
 		<h2>
 			<strong>Bailey Binger</strong>
 		</h2>
-		<img src="BingeWatcher.jpg" alt="Binge">
+		<img src="BingeWatcher.jpg" alt="Binge" class="binger">
 		<p>
 			<strong>Gender:</strong> Female
 		</p>
