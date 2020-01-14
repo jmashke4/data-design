@@ -5,6 +5,7 @@
 		<title>Persona</title>
 	</head>
 	<body>
+	<link rel="stylesheet" href="styles.css">
 		<h1>Name:</h1>
 		<h2>
 			<strong>Bailey Binger</strong>
