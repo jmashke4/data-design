@@ -16,7 +16,7 @@
 		<p>Bailey is logged into her Netflix account</p>
 		<h2>Postcondition:</h2>
 		<p>The Witcher is saved for later</p>
-
+		<h2>Interaction flow.</h2>
 		<ul>
 			<li>Bailey enters netflix.com into her browser</li>
 			<li>The server returns the netflix main page</li>
