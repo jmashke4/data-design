@@ -5,7 +5,10 @@
 		<title>Persona</title>
 	</head>
 	<body>
-		<h1>Name: Bailey Binger</h1>
+		<h1>Name:</h1>
+		<p>
+			<strong>Bailey Binger</strong>
+		</p>
 		<img src="BingeWatcher.jpg" alt="Binge">
 		<p>
 			<strong>Gender:</strong> Female
