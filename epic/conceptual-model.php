@@ -10,7 +10,7 @@
 	<h2><strong>Profile</strong></h2>
 		<ul>
 			<li>User ID</li>
-			<li>First and Last name</li>
+			<li>First and Last name</li>F
 			<li>Credit Card</li>
 			<li>Rental History</li>
 			<li>Email</li>
@@ -28,5 +28,6 @@
 			<li>Rating User ID</li>
 			<li>Rating Movie Id</li>
 		</ul>
+	<img src="ERD.xml" alt="erd">
 	</body>
 </html>
