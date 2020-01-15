@@ -9,19 +9,20 @@
 	<h1>Entities and Attributes</h1>
 	<h2><strong>Profile:</strong></h2>
 		<ul>
-			<li>User ID</li>
-			<li>First and Last name</li>
-			<li>Credit Card</li>
-			<li>Rental History</li>
-			<li>Email</li>
+			<li>profileId</li>
+			<li>profileFirstName</li>
+			<li>profileLastName</li>
+			<li>profileCreditCard</li>
+			<li>profileWatchHistory</li>
+			<li>profileEmail</li>
 		</ul>
 	<h2><strong>Movie:</strong></h2>
 		<ul>
-			<li>Movie ID</li>
-			<li>Average Rating</li>
-			<li>Year</li>
-			<li>Starring</li>
-			<li>Summary</li>
+			<li>movieId</li>
+			<li>movieRating</li>
+			<li>movieYear</li>
+			<li>movieActors</li>
+			<li>movieSummary</li>
 		</ul>
 	<h2><strong>Rating:</strong></h2>
 		<ul>
