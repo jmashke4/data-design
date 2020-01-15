@@ -28,6 +28,6 @@
 			<li>Rating User ID</li>
 			<li>Rating Movie Id</li>
 		</ul>
-	<img src="ERD.xml" alt="erd">
+	<img src="ERD.jpg" alt="erd">
 	</body>
 </html>
