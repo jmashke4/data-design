@@ -8,15 +8,24 @@
 	<h1>Entities and Attributes</h1>
 	<h2><strong>Profile</strong></h2>
 		<ul>
-			<li></li>
+			<li>User ID</li>
+			<li>First and Last name</li>
+			<li>Credit Card</li>
+			<li>Rental History</li>
+			<li>Email</li>
 		</ul>
 	<h2><strong>Movie</strong></h2>
 		<ul>
-			<li></li>
+			<li>Movie_ID</li>
+			<li>Average Rating</li>
+			<li>Year</li>
+			<li>Starring</li>
+			<li>Summary</li>
 		</ul>
-	<h2><strong>Watchlist</strong></h2>
+	<h2><strong>Rating</strong></h2>
 		<ul>
-			<li></li>
+			<li>Rating User ID</li>
+			<li>Rating Movie Id</li>
 		</ul>
 	</body>
 </html>
