@@ -10,7 +10,7 @@
 	<p><a href="persona.php" class="Persona">Persona</a></p>
 	<p><a href="user-story.php" class="user-story">User Story</a></p>
 	<p><a href="use-case-interaction.php" class="interaction">Use Case Interaction</a></p>
-	<p><a href="conceptual-model.php" class="model"></a></p>
+	<p><a href="conceptual-model.php" class="model">Conceptual Model</a></p>
 	</body>
 
 </html>
