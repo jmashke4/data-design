@@ -5,6 +5,7 @@
 		<title>Phase 2</title>
 	</head>
 	<body>
+	<link rel="stylesheet" href="styles2.css">
 	<h1>Entities and Attributes</h1>
 	<h2><strong>Profile</strong></h2>
 		<ul>
