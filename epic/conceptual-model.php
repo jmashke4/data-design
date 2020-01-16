@@ -30,6 +30,6 @@
 			<li>RatingMovieId</li>
 		</ul>
 	<h2>ERD:</h2>
-	<img src="erd.png" alt="erd">
+	<img src="erd.png" alt="erd" class="erd">
 	</body>
 </html>
