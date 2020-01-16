@@ -5,3 +5,7 @@
 body {
 	background-color: beige;
 }
+.erd {
+	border: 10px ridge gold;
+	width: 350px;
+}
