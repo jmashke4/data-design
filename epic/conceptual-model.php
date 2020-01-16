@@ -26,8 +26,8 @@
 		</ul>
 	<h2><strong>Rating:</strong></h2>
 		<ul>
-			<li>RatingUserId</li>
-			<li>RatingMovieId</li>
+			<li>ratingProfileId</li>
+			<li>ratingMovieId</li>
 		</ul>
 	<h2>ERD:</h2>
 	<img src="erd.png" alt="erd" class="erd">
