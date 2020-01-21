@@ -1,4 +1,6 @@
-DROP TABLE IF EXISTS `Rating`;
+ALTER DATABASE jmashke CHARACTER SET utf8 COLLATE utf8_unicode_ci;
+
+DROP TABLE IF EXISTS `rating`;
 DROP TABLE IF EXISTS movie;
 DROP TABLE IF EXISTS profile;
 
@@ -14,7 +16,6 @@ CREATE TABLE profile (
 	UNIQUE(profileEmail),
 	PRIMARY KEY(profileId)
 );
-
 
 CREATE TABLE movie (
 	movieId BINARY(16) NOT NULL,
@@ -36,3 +37,4 @@ CREATE TABLE `rating` (
 	FOREIGN KEY(ratingMovieId) REFERENCES movie(movieId),
 	PRIMARY KEY(ratingProfileId, ratingMovieId)
 );
+
