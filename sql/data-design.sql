@@ -11,7 +11,6 @@ CREATE TABLE profile (
 	profileFirstName CHAR(32),
 	profileLastName VARCHAR(32) NOT NULL,
 	profileEmail VARCHAR(128) NOT NULL,
-	profileCreditCard CHAR(97) NOT NULL,
 	profileWatchHistory VARCHAR(32),
 	UNIQUE(profileEmail),
 	PRIMARY KEY(profileId)
