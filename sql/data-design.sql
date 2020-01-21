@@ -8,28 +8,28 @@ DROP TABLE IF EXISTS profile;
 CREATE TABLE profile (
 
 	profileId BINARY(16) NOT NULL,
-	profileFirstName CHAR(32),
-	profileLastName VARCHAR(32) NOT NULL,
+	profileFirstName CHAR(32) NOT NULL,
+	profileLastName CHAR(32) NOT NULL,
 	profileEmail VARCHAR(128) NOT NULL,
-	profileWatchHistory VARCHAR(32),
-	UNIQUE(profileEmail),
-	PRIMARY KEY(profileId)
+	profileWatchHistory CHAR(150),
+	PRIMARY KEY(profileId),
+	UNIQUE(profileEmail)
 );
 
 CREATE TABLE movie (
 	movieId BINARY(16) NOT NULL,
-	movieRating BINARY(16) NOT NULL,
+	movieName CHAR(50) NOT NULL,
+	movieRating CHAR(16) NOT NULL,
 	movieSummary VARCHAR(140) NOT NULL,
-	movieYear DATETIME(6) NOT NULL,
+	movieYear VARCHAR(6) NOT NULL,
 	INDEX(movieId),
-	FOREIGN KEY(movieId) REFERENCES profile(profileId),
 	PRIMARY KEY(movieId)
 );
 
 CREATE TABLE `rating` (
 	ratingProfileId BINARY(16) NOT NULL,
 	ratingMovieId BINARY(16) NOT NULL,
-	likeDate DATETIME(6) NOT NULL,
+	likeDate VARCHAR(6) NOT NULL,
 	INDEX(ratingProfileId),
 	INDEX(ratingMovieId),
 	FOREIGN KEY(ratingProfileId) REFERENCES profile(profileId),
