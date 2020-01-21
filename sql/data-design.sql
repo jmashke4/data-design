@@ -29,7 +29,7 @@ CREATE TABLE movie (
 CREATE TABLE `rating` (
 	ratingProfileId BINARY(16) NOT NULL,
 	ratingMovieId BINARY(16) NOT NULL,
-	likeDate VARCHAR(6) NOT NULL,
+	ratingDate VARCHAR(6) NOT NULL,
 	INDEX(ratingProfileId),
 	INDEX(ratingMovieId),
 	FOREIGN KEY(ratingProfileId) REFERENCES profile(profileId),
